@@ -131,5 +131,3 @@ Scenario Simulation (Impact Assessment)
 This framework emphasizes **physics-informed deep learning**, combining learned spatiotemporal patterns with explicit physical constraints to produce **interpretable, robust, and actionable cyclone forecasts**.
 
 ---
-
-If you want, I can also **draw a clean diagram of this architecture** in the style of a research paper figure—it’ll make your methodology visually intuitive. Do you want me to do that next?
